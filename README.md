@@ -5,10 +5,10 @@ An Excel VBA-based automated timetable generation system that automatically crea
 ---
 
 ## 📂 Project Structure
-Project Folder/
-│
-├── Master_D.xlsm # Main Excel workbook containing all data, worksheets, and VBA macros
-└── README.md # Project documentation
+  Project Folder/
+  │
+  ├── Master_D.xlsm # Main Excel workbook containing all data, worksheets, and VBA macros
+  └── README.md # Project documentation
 
 > **Note:** All worksheets, master data, and VBA code are contained within **`Master_D.xlsm`**. The `README.md` file is located outside the workbook in the project folder.
 
